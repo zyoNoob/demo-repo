@@ -1,4 +1,4 @@
-# This is a testing repo.
+# This is a testing repo
 
 Body text.
 Wow lovely!
